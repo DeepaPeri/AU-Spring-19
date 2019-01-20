@@ -4,15 +4,15 @@
 
 ## Assignment questions
 
-### 1) Add dependency  to pom.xml
+ 1) Add dependency  to pom.xml
 
-### 2) Implementation of dependency in App.java
+ 2) Implementation of dependency in App.java
 
-### 3) Test cases added in AppTest.java
+ 3) Test cases added in AppTest.java
 
-### 4) Compiling the project
+ 4) Compiling the project
 
-### 5) Testing of project
+5) Testing of project
 
 ## Process of execution
 
