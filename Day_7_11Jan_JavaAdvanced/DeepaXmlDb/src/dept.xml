@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Departments>
+<Department>
+<Id>1</Id>
+<Name>Deepa</Name>
+</Department>
+<Department>
+<Id>2</Id>
+<Name>Vardhan</Name>
+</Department>
+<Department>
+<Id>3</Id>
+<Name>Abhinav</Name>
+</Department>
+<Department>
+<Id>4</Id>
+<Name>Sai</Name>
+</Department>
+<Department>
+<Id>5</Id>
+<Name>Alekhya</Name>
+</Department>
+<Department>
+<Id>6</Id>
+<Name>Madhukar</Name>
+</Department>
+</Departments>
